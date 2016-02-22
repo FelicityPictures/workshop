@@ -1,6 +1,12 @@
 [submodule "3/zhang_dillon"]
 	path = 3/zhang_dillon
 	url = https://github.com/dillzhang/Spring_Soft_Dev_HW.git
+<<<<<<< HEAD
 [submodule "3/samuel_zhang"]
 	path = 3/samuel_zhang
 	url = https://github.com/CodeSammich/softdev_two
+=======
+[submodule "3/jerry_lei"]
+	path = 3/jerry_lei
+	url = https://github.com/jerrylei98/softdev_work.git
+>>>>>>> c9d58536f41b209a566b0f1d5f6ec95bbc05443b
