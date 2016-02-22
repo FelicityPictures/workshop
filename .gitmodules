@@ -22,3 +22,6 @@
 [submodule "3/alexander_sosnovsky"]
 	path = 3/alexander_sosnovsky
 	url = https://github.com/atrp--/brown.git
+[submodule "3/max_fishelson"]
+	path = 3/max_fishelson
+	url = https://github.com/Fishelstix/softdev_spring16.git
