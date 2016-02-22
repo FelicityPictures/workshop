@@ -31,3 +31,6 @@
 [submodule "3/henry_filosa"]
 	path = 3/henry_filosa
 	url = https://github.com/hfilosa/softdev_hw.git
+[submodule "6/sammi_wu leung"]
+	path = 6/sammi_wu leung
+	url = https://github.com/sammiWL/softdev_spring_hw.git
