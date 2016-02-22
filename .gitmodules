@@ -1,6 +1,18 @@
+[submodule "3/winton_yee"]
+	path = 3/winton_yee
+	url = https://github.com/blehw/wintonyee-softdevhw.git
 [submodule "3/zhang_dillon"]
 	path = 3/zhang_dillon
 	url = https://github.com/dillzhang/Spring_Soft_Dev_HW.git
 [submodule "3/rijiu_zheng"]
 	path = 3/rijiu_zheng
 	url = https://github.com/RJZheng1/softdev2hw.git
+[submodule "3/tony_li"]
+	path = 3/tony_li
+	url = https://github.com/tonyli7/SoftDevHW.git
+[submodule "3/samuel_zhang"]
+	path = 3/samuel_zhang
+	url = https://github.com/CodeSammich/softdev_two
+[submodule "3/jerry_lei"]
+	path = 3/jerry_lei
+	url = https://github.com/jerrylei98/softdev_work.git
