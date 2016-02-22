@@ -31,3 +31,6 @@
 [submodule "3/henry_filosa"]
 	path = 3/henry_filosa
 	url = https://github.com/hfilosa/softdev_hw.git
+[submodule "6/sandy_fang"]
+	path = 6/sandy_fang
+	url = https://github.com/snady/softdev-hw
