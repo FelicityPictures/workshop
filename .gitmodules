@@ -16,3 +16,6 @@
 [submodule "3/jerry_lei"]
 	path = 3/jerry_lei
 	url = https://github.com/jerrylei98/softdev_work.git
+[submodule "3/leon_cheng"]
+	path = 3/leon_cheng
+	url = https://github.com/leoncheng57/brown-softdev-fall-hw
