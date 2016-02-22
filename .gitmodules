@@ -25,3 +25,6 @@
 [submodule "3/max_fishelson"]
 	path = 3/max_fishelson
 	url = https://github.com/Fishelstix/softdev_spring16.git
+[submodule "3/henry_filosa"]
+	path = 3/henry_filosa
+	url = https://github.com/hfilosa/softdev_hw.git
